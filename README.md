@@ -64,7 +64,6 @@
     ```
     git clone https://github.com/google/glog.git
     wget https://www.graphics.rwth-aachen.de/media/openmesh_static/Releases/8.1/OpenMesh-8.1.tar.gz
-    git clone https://github.com/google/googletest.git
     ```
 
 * [Build+Test glog](https://github.com/google/glog#building-from-source)
