@@ -1,0 +1,25 @@
+! Parameter File for HPMeshGen
+
+workingDirectory	.
+cacheFolder			./cache
+nBlocks				1
+
+! ----- Bahamas -----
+meshFileName		./meshes/fort_bahamas.14
+sizegridSizeX		252
+sizegridSizeY		360
+
+nRefinementSteps	2
+nPatches		53
+
+!----------------------------------------------------------------------------------------
+! ----- Output -----
+outputFolder	./output			! all output files go in here
+initialMeshOutput	1				! initial mesh
+reductionOutput		0				! intermediate steps of reduction
+blockMeshOutput		1				!
+meshQualityOutput	0				! mesh quality metrics
+sizegridOutput		0				! size grid
+
+forceFragmentNumber 1				! force fragment number or prefer high quality with potentially too many framents
+convexHullDecimation 0				! activate masks
