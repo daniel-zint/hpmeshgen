@@ -1,6 +1,6 @@
 This is an implementation of the Paper "Automatic Generation of Load-Balancing-Aware Block-Structured Grids for Complex Ocean Domains" presented at the International Meshing Roundtable 2022.
 
-The provided example uses the ADCIRC mesh of the Bight of Abaco in the Bahamas region as an input. [Grenier Jr. et al.](https://doi.org/10.1029/95JC00841)
+The provided example uses the ADCIRC mesh of the Bight of Abaco in the Bahamas region as an input. [[Grenier Jr. et al.]](https://doi.org/10.1029/95JC00841)
 
 ## Requirements Linux:
 (install in order as listed)
